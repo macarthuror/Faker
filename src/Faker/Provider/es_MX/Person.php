@@ -13,7 +13,7 @@ class Person extends \Faker\Provider\es_ES\Person
     ];
 
     /**
-     *
+     * Generates a random Registro Federal de Contribuyentes (RFC)
      *
      * @example 'DAJI111017'
      * @example 'OIIJ321019802'
@@ -42,7 +42,7 @@ class Person extends \Faker\Provider\es_ES\Person
     }
 
     /**
-     *
+     * Generates a random Clave Única de Registro de Población (CURP)
      *
      * @example 'OALI920621HDFRBR00'
      *
